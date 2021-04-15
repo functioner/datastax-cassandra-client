@@ -1,8 +1,6 @@
 /*
  *  @author Haoze Wu <haoze@jhu.edu>
  *
- *  The McGray Project
- *
  *  Copyright (c) 2019, Johns Hopkins University - Order Lab.
  *      All rights reserved.
  *
